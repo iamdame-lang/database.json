@@ -1,7 +1,7 @@
 {
   "Cave Story+": {
-    "url": "https://raw.githubusercontent.com/iamdame-lang/database.json/main/giochi/cave_story.zip",
-    "cover": "https://raw.githubusercontent.com/iamdame-lang/database.json/main/cover/cave_story.png"
+    "url": "http://supercratebox.com/download/win.zip",
+    "cover": "https://www.supercratebox.com/assets/screenshot_1.png"
   },
   "Super Crate Box": {
     "url": "https://raw.githubusercontent.com/iamdame-lang/database.json/main/giochi/scb.zip",

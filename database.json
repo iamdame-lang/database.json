@@ -1,10 +1,6 @@
 {
   "Super Crate Box": {
     "url": "http://supercratebox.com/download/win.zip",
-    "cover": "https://nintendosoup.com/wp-content/uploads/2019/03/NintendoSwitch_SuperCrateBox_Logo.jpg"
-  },
-  "Super Crate Box": {
-    "url": "https://raw.githubusercontent.com/iamdame-lang/database.json/main/giochi/scb.zip",
-    "cover": "https://raw.githubusercontent.com/iamdame-lang/database.json/main/cover/scb.png"
-  }
+    "cover": "https://i.imgur.com/7IUcrHD.png"
+  },  
 }

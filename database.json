@@ -1,10 +1,12 @@
 {
   "Cave Story+": {
-    "url": "https://github.com/TuoUtente/TuoRepo/raw/main/giochi/cave_story.zip",
+    "url": "https://github.com/iamdame-lang/database.json/raw/main/giochi/cave_story.zip",
+    "cover": "https://github.com/iamdame-lang/database.json/raw/main/cover/cave_story.png",
     "desc": "Un classico gioco d'avventura."
   },
   "Super Crate Box": {
-    "url": "https://github.com/TuoUtente/TuoRepo/raw/main/giochi/scb.zip",
+    "url": "https://github.com/iamdame-lang/database.json/raw/main/giochi/scb.zip",
+    "cover": "https://github.com/iamdame-lang/database.json/raw/main/cover/scb.png",
     "desc": "Azione frenetica!"
   }
 }

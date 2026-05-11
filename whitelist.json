@@ -1,12 +1,10 @@
 {
   "authorized_users": [
     {
-      "name": "DESKTOP-L4D0EJR",
-      "hwid": "61448afecf45"
+      "name": "NOME-TUO-PC"
     },
     {
-      "name": "Nome Amico",
-      "hwid": "CODICE_AMICO_QUI"
+      "name": "NOME-PC-AMICO"
     }
   ]
 }

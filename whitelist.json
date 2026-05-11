@@ -1,10 +1,12 @@
 {
   "authorized_users": [
     {
-      "name": "test"
+      "name": "DESKTOP-L4D0EJR",
+      "id": "AA795"
     },
     {
-      "name": "NOME-PC-AMICO"
+      "name": "PC del mio amico",
+      "id": "XY987"
     }
   ]
 }
